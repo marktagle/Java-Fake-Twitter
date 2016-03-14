@@ -1,0 +1,8 @@
+NewUsername
+1234
+NewName
+February 2 1901
+NewAddress
+NewSchool
+Male
+1234
