@@ -1,5 +1,5 @@
 
-# Unfinished Fake Twitter made in Java
+# Unfinish Fake Twitter made in Java
 
 ![capture 1](https://user-images.githubusercontent.com/17538473/41518165-44418f90-72f3-11e8-8952-7beb5c9e13ce.png)
 ---------------------
